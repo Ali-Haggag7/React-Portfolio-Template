@@ -16,7 +16,7 @@
 
   <br />
 
-  <img src="https://placehold.co/800x400/1a1a1a/FFF?text=Portfolio+Landing+Page+Preview" alt="Project Preview" width="100%" style="border-radius: 10px;" />
+  <img src="/portfolio-1.jpeg" alt="Project Preview" width="100%" style="border-radius: 10px;" />
 
 </div>
 
@@ -77,9 +77,9 @@ npm start
 
 ## 📸 Section Previews
 
-| **Hero Section** | **Project Grid** |
+| **Project Grid** | **Contact Section** |
 | :---: | :---: |
-| <img src="https://placehold.co/400x250/1a1a1a/FFF?text=Hero+Section+Preview" width="100%" /> | <img src="https://placehold.co/400x250/1a1a1a/FFF?text=Project+Grid+Preview" width="100%" /> |
+| <img src="/portfolio-2.jpeg" width="100%" /> | <img src="/portfolio-3.jpeg" width="100%" /> |
 
 ---
 
